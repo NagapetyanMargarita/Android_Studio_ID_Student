@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="new_">Добавить</string>
+    <string name="names">Name</string>
+    <string name="cancel">отмена</string>
+    <string name="commit">подтверждение</string>
+    <string name="inputTitle">Укажите значение</string>
+    <string name="inputFaculty">Наименование факультета</string>
+    <string name="inputGroup">Номер группы</string>
+    <string name="Имя">Имя</string>
+    <string name="Фамилия">Фамилия</string>
+    <string name="Отчество">Отчество</string>
+    <string name="Телефон">Телефон</string>
+    <string name="Дата">Дата рождения</string>
+    <string name="Вводф">Введите фамилию</string>
+    <string name="Вводо">Введите отчество</string>
+    <string name="Вводт">Введите телефон</string>
+    <string name="Вводи">Введит имя</string>
+    <string name="editAirline">edit airline</string>
+    <string name="deleteAirline">delete airline</string>
+    <string name="del_">Удалить</string>
+    <string name="mod_">Изменить</string>
+    <string name="tableLoyotgrup">Список групп</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_student">Добавить студента</string>
+    <string name="edit_button">edit_button</string>
+    <string name="delete_button">delete_button</string>
+    <string name="textview">TextView</string>
+</resources>
